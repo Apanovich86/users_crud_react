@@ -1,0 +1,56 @@
+.button-back {
+    margin: 2% 0 2% 90%;
+    background-color: #2e8ff0;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    width: 120px;
+    height: 36px;
+}
+
+.button-back:hover {
+    background-color: lightblue;
+}
+
+.form-addUser {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 18px;
+    border-radius: 10%;
+    row-gap: 2px;
+    width: 320px;
+    background-color: white;
+}
+
+.form-addUser button {
+    margin-top: 2%;
+    background-color: #2e8ff0;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    width: 120px;
+    height: 30px;
+}
+
+.form-addUser button:hover {
+    background-color: lightblue;
+}
+
+.form-addUser select {
+    width: 280px;
+    height: 30px;
+    background-color: #e5e8ef;
+    border: none;
+    margin-bottom: 6px;
+}
+
+.text-input {
+    width: 280px;
+    height: 30px;
+    background-color: #e5e8ef;
+    border: none;
+    margin-bottom: 6px;
+    padding: 2%;
+}

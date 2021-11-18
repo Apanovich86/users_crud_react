@@ -1,0 +1,16 @@
+.viewUser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 56px;
+    background-color: #e5e8ef;
+    padding: 5px;
+}
+
+.viewUser:hover {
+    background-color: #eff0f4;
+}
+
+.viewUser div {
+    width: 200px;
+}
